@@ -52,7 +52,7 @@ Este sistema visa substituir os métodos manuais (como cadernos e controles fís
 - [Documento de Visão do Sistema](Documento-visão-de-sistemas.docx)
 - [Especificação de Requisitos de Software (SRS)](Requisitos-de-software.docx)
 - [Fluxo de Dados (DFD)](Documento-de-fluxo-de-dados.docx)
-- [Diagramas UML de Caso de Uso](Diagrama-de-uso.jpeg)
+- [Diagramas UML de Caso de Uso](Diagrama-uml.jpeg)
 
 ---
 
