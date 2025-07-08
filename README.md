@@ -23,7 +23,7 @@ Este sistema visa substituir os métodos manuais (como cadernos e controles fís
 
 ---
 
-## 🧑‍💻 Público-Alvo
+## 🧑‍💻 Público Alvo
 
 - Professores (registro de presença e atividades)
 - Diretores e administradores (gestão e relatórios)
@@ -50,9 +50,9 @@ Este sistema visa substituir os métodos manuais (como cadernos e controles fís
 
 📄 Documentos principais disponíveis no repositório:
 - [Documento de Visão do Sistema](Documento-visão-de-sistemas.docx)
-- [Especificação de Requisitos de Software (SRS)](./docs/Requisitos-de-Software.pdf)
-- [Fluxo de Dados (DFD)](./docs/Documento-fluxo-de-dados.pdf)
-- [Diagramas UML de Caso de Uso](./images/Diagrama-de-caso-de-uso.jpeg)
+- [Especificação de Requisitos de Software (SRS)](Requisitos-de-software.docx)
+- [Fluxo de Dados (DFD)](Documento-de-fluxo-de-dados.docx)
+- [Diagramas UML de Caso de Uso](Diagrama-de-uso.jpeg)
 
 ---
 
@@ -86,5 +86,5 @@ Disciplina: Arquitetura de Soluções — UNIFAAT
 
 ## 📬 Contato
 
-Para mais informações ou dúvidas, entre em contato com os desenvolvedores pelo GitHub ou diretamente pela plataforma.
+Para mais informações ou dúvidas, entre em contato com os desenvolvedores pelo GitHub ou diretamente pelo LinkedIn.
 
