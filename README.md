@@ -49,7 +49,7 @@ Este sistema visa substituir os métodos manuais (como cadernos e controles fís
 ## 🧭 Diagrama e Documentação
 
 📄 Documentos principais disponíveis no repositório:
-- [Documento de Visão do Sistema](./docs/Documento-visao-de-sistemas.pdf)
+- [Documento de Visão do Sistema](Documento visão de sistemas.docx)
 - [Especificação de Requisitos de Software (SRS)](./docs/Requisitos-de-Software.pdf)
 - [Fluxo de Dados (DFD)](./docs/Documento-fluxo-de-dados.pdf)
 - [Diagramas UML de Caso de Uso](./images/Diagrama-de-caso-de-uso.jpeg)
